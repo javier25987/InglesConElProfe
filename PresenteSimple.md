@@ -17,13 +17,13 @@
 | cercanos | this     | those  |
 | lejanos  | that     | these  |
 
-that es el unico el cual se le puede abrviar el verbo to be
+solo con that puede abreviar el verbo to be
 
 | normal  | abreviado |
 |---------|-----------|
 | that is | that's    |
 
-## verbo to be
+## Verbo to be
 
 | conjugacion | forma corta | negacion     | forma corta              |
 |-------------|-------------|--------------|--------------------------|
@@ -95,11 +95,13 @@ y "does" para:
 
 #### negacion
 
-se puede hacer sin abreviacion y con la abreviacion "I _do not_ (I don't) 
+se puede hacer sin abreviacion y con la abreviacion "I do not (I don't) 
 <inserte verbo>"
 
 * do not - don't
 * does not - doesn't
+
+**ejemplos:**
 
 * I don't program java  // en esta situacion "program" es un verbo
 * you don't understand this program  // aca "program" es un sustantivo

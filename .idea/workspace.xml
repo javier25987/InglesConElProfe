@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="46cd3006-d78e-4286-9d61-c566ba2959f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "javier25987"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;javier25987&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/javier25987/InglesConElProfe.git",
-    "accountId": "8283625b-8927-4932-9648-3b4dc2b32b5f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/javier25987/InglesConElProfe.git&quot;,
+    &quot;accountId&quot;: &quot;8283625b-8927-4932-9648-3b4dc2b32b5f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -93,6 +94,9 @@
       <updated>1729348753494</updated>
       <workItem from="1729348754908" duration="7474000" />
       <workItem from="1729356311045" duration="715000" />
+      <workItem from="1729381339868" duration="727000" />
+      <workItem from="1729454333840" duration="74000" />
+      <workItem from="1729715345856" duration="12000" />
     </task>
     <servers />
   </component>

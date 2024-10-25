@@ -4,7 +4,7 @@ from pathlib import Path
 directorio_actual = Path(".")
 st.set_page_config(layout="wide")
 
-archivos_en_raiz = ["no class"] + list(
+archivos_en_raiz: list[str] = ["no class"] + list(
     map(
         lambda x: x[:-3],
         [
@@ -20,7 +20,7 @@ st.session_state.archivo = "no class"
 st.title("Clases de ingles con el profe")
 
 with st.sidebar:
-    archivo_seleccionado = st.selectbox(
+    archivo_seleccionado: str = st.selectbox(
         "Seleccione la clase que desea abrir",
         archivos_en_raiz
     )

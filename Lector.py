@@ -17,8 +17,6 @@ archivos_en_raiz: list[str] = ["no class"] + list(
 
 st.session_state.archivo = "no class"
 
-st.title("Clases de ingles con el profe")
-
 with st.sidebar:
     archivo_seleccionado: str = st.selectbox(
         "Seleccione la clase que desea abrir",
@@ -30,7 +28,9 @@ with st.sidebar:
             st.session_state.archivo = archivo_seleccionado + ".md"
 
 if st.session_state.archivo == "no class":
+    st.title("Clases de ingles con el profe")
     st.header("seleccione una clase.")
+    st.info("el listado de clases esta en la barra izquierda")
 else:
     with open(st.session_state.archivo, "r") as f:
         archivo = "".join(f.readlines())

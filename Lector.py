@@ -2,7 +2,12 @@ import streamlit as st
 from pathlib import Path
 
 directorio_actual = Path(".")
-st.set_page_config(layout="wide", theme="light")
+st.set_page_config(
+    layout="wide",
+    page_icon="random",
+    initial_sidebar_state="expanded",
+    page_title="InglesConElProfe",
+)
 
 archivos_en_raiz: list[str] = [
     f.name[:-3]

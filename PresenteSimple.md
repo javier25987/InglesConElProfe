@@ -17,7 +17,7 @@
 | cercanos | this     | those  |
 | lejanos  | that     | these  |
 
-solo con that puede abreviar el verbo to be
+> **NOTA:** solo con "that"" puede abreviar el verbo to be
 
 | normal  | abreviado |
 |---------|-----------|
@@ -25,21 +25,22 @@ solo con that puede abreviar el verbo to be
 
 ## Verbo to be
 
-| conjugacion | forma corta | negacion     | forma corta              |
-|-------------|-------------|--------------|--------------------------|
-| I am        | I'm         | I am not     | i'm not                  |
-| you are     | You're      | you are not  | you aren't  (you're not) |
-| he is       | he's        | he is not    | he isn't (---)           |
-| she is      | she's       | she is not   | she isn't (---)          |
-| it is       | it's        | it is not    | it isn't (---)           |
-| we are      | we're       | we are not   | we aren't (---)          |
-| they are    | they're     | they are not | they aren't (---)        |
+| conjugacion | forma corta | negacion     | forma corta               |
+|-------------|-------------|--------------|---------------------------|
+| I am        | I'm         | I am not     | i'm not                   |
+| you are     | You're      | you are not  | you aren't  (you're not)  |
+| he is       | he's        | he is not    | he isn't (he's not)       |
+| she is      | she's       | she is not   | she isn't (she's not)     |
+| it is       | it's        | it is not    | it isn't (it's not)       |
+| we are      | we're       | we are not   | we aren't (we're not)     |
+| they are    | they're     | they are not | they aren't (they're not) |
 
-**NOTA:** es el mismo que en espa;ol se usa para descripciones y lugares
+>  **NOTA:** es el mismo que en español se usa para descripciones y lugares
 
-#### **ejemplos:** 
+#### **ejemplos:**
 
 ##### afirmativos
+
 * I'm a developer
 * you're a tester
 * he's a senior
@@ -49,6 +50,7 @@ solo con that puede abreviar el verbo to be
 * they're freelancers
 
 ##### negativos
+
 * I'm not gay
 * you aren't QA
 * he isn't frontend developer
@@ -126,7 +128,7 @@ el verbo y el pronombre
 
 #### reafirmacion
 
-**NOTA:** para hacer una reafirmacion con verbos tambien se usa "do", "does"
+> **NOTA:** para hacer una reafirmacion con verbos tambien se usa "do", "does"
 
 * don't you eat?. R - I do eat
 * does he make pies?. R - he does make pies 

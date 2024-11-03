@@ -13,20 +13,20 @@
 #### Pronombres demostrativos
 
 |          | singular | plural |
-|----------|----------|--------|
+| -------- | -------- | ------ |
 | cercanos | this     | those  |
 | lejanos  | that     | these  |
 
 > **NOTA:** solo con "that"" puede abreviar el verbo to be
 
 | normal  | abreviado |
-|---------|-----------|
+| ------- | --------- |
 | that is | that's    |
 
 ## Verbo to be
 
 | conjugacion | forma corta | negacion     | forma corta               |
-|-------------|-------------|--------------|---------------------------|
+| ----------- | ----------- | ------------ | ------------------------- |
 | I am        | I'm         | I am not     | i'm not                   |
 | you are     | You're      | you are not  | you aren't  (you're not)  |
 | he is       | he's        | he is not    | he isn't (he's not)       |
@@ -81,7 +81,7 @@ El verbo auxiliar ayuda para 3 cosas:
 * preguntas de verbos
 * enfasis de verbos
 
-los varbos auxiliares para el presente simple son "do" y "does" (does .aprox),
+los verbos auxiliares para el presente simple son "do" y "does" (does .aprox),
 "do" para:
 
 * I
